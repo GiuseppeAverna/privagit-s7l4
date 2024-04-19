@@ -9,6 +9,8 @@ public class S7L3Application {
 	public static void main(String[] args) {
 		SpringApplication.run(S7L3Application.class, args);
 		// modifiche di  Altro_branch
+		modifiche di giuse
+	
 	}
 
 }
